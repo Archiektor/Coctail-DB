@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Coctail-DB/static/css/main.bb35282f.chunk.css",
+    "main.js": "/Coctail-DB/static/js/main.99eeeec3.chunk.js",
+    "main.js.map": "/Coctail-DB/static/js/main.99eeeec3.chunk.js.map",
+    "runtime-main.js": "/Coctail-DB/static/js/runtime-main.d1119326.js",
+    "runtime-main.js.map": "/Coctail-DB/static/js/runtime-main.d1119326.js.map",
+    "static/js/2.ef25e2df.chunk.js": "/Coctail-DB/static/js/2.ef25e2df.chunk.js",
+    "static/js/2.ef25e2df.chunk.js.map": "/Coctail-DB/static/js/2.ef25e2df.chunk.js.map",
+    "index.html": "/Coctail-DB/index.html",
+    "precache-manifest.d9147ee501d5610d26d0988773438c66.js": "/Coctail-DB/precache-manifest.d9147ee501d5610d26d0988773438c66.js",
+    "service-worker.js": "/Coctail-DB/service-worker.js",
+    "static/css/main.bb35282f.chunk.css.map": "/Coctail-DB/static/css/main.bb35282f.chunk.css.map",
+    "static/js/2.ef25e2df.chunk.js.LICENSE.txt": "/Coctail-DB/static/js/2.ef25e2df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1119326.js",
+    "static/js/2.ef25e2df.chunk.js",
+    "static/css/main.bb35282f.chunk.css",
+    "static/js/main.99eeeec3.chunk.js"
+  ]
+}
